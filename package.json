@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/lmshaffe/node-postgresql#readme",
   "dependencies": {
-    "pg": "^6.1.2"
+    "pg": "^6.1.2",
+    "pg-promise": "^5.5.5"
   }
 }
